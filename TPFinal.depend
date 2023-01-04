@@ -1,0 +1,1911 @@
+# depslib dependency file v1.0
+1666124910 source:c:\users\lei_v\downloads\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	"grafico.h"
+	"CategoriaIncidencia.h"
+	"CategoriaRepuesto.h"
+	"Fecha.h"
+	"Incidencia.h"
+	"Repuesto.h"
+
+1656302738 c:\users\lei_v\downloads\tpfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1666088340 source:c:\users\lei_v\downloads\tpfinal\metodosincidencia.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+
+1666088421 source:c:\users\lei_v\downloads\tpfinal\metodoscategoria.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1666092447 source:c:\users\lei_v\downloads\tpfinal\src\metodosfecha.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	"Fecha.h"
+
+1666120166 c:\users\lei_v\downloads\tpfinal\include\fecha.h
+
+1666090456 source:c:\users\lei_v\downloads\tpfinal\src\metodoscategoriaincidencia.cpp
+	"CategoriaIncidencia.h"
+
+1666122117 c:\users\lei_v\downloads\tpfinal\include\categoriaincidencia.h
+	<windows.h>
+
+1666090467 source:c:\users\lei_v\downloads\tpfinal\src\metodoscategoriarepuesto.cpp
+	"CategoriaRepuesto.h"
+
+1666122136 c:\users\lei_v\downloads\tpfinal\include\categoriarepuesto.h
+	<windows.h>
+
+1666122359 source:c:\users\lei_v\downloads\tpfinal\src\metodosrepuesto.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	"Repuesto.h"
+
+1666123176 c:\users\lei_v\downloads\tpfinal\include\repuesto.h
+	<windows.h>
+	"CategoriaRepuesto.h"
+
+1666090922 source:c:\users\lei_v\downloads\tpfinal\src\metodosincidencia.cpp
+	"Incidencia.h"
+
+1666091121 c:\users\lei_v\downloads\tpfinal\include\incidencia.h
+	<windows.h>
+	"CategoriaIncidencia.h"
+	"Repuesto.h"
+	"Fecha.h"
+
+1656302738 c:\users\lei_v\downloads\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1666125020 c:\users\lei_v\downloads\tpfinal\include\grafico.h
+	"rlutil.h"
+
+1666121460 source:c:\users\lei_v\downloads\tpfinal\src\metodosgrafico.cpp
+	"grafico.h"
+
+1667931383 source:c:\users\alejandro\downloads\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Graficos.h"
+
+1656302738 c:\users\alejandro\downloads\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1666654612 c:\users\alejandro\downloads\tpfinal\include\grafico.h
+	"rlutil.h"
+
+1666122117 c:\users\alejandro\downloads\tpfinal\include\categoriaincidencia.h
+	<windows.h>
+
+1666647212 c:\users\alejandro\downloads\tpfinal\include\categoriarepuesto.h
+	<windows.h>
+	<iostream>
+
+1666810749 c:\users\alejandro\downloads\tpfinal\include\fecha.h
+
+1666699074 c:\users\alejandro\downloads\tpfinal\include\incidencia.h
+	<iostream>
+	<windows.h>
+	"CategoriaIncidencia.h"
+	"Repuesto.h"
+	"Fecha.h"
+
+1667937583 c:\users\alejandro\downloads\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1666090456 source:c:\users\alejandro\downloads\tpfinal\src\metodoscategoriaincidencia.cpp
+	"CategoriaIncidencia.h"
+
+1666090467 source:c:\users\alejandro\downloads\tpfinal\src\metodoscategoriarepuesto.cpp
+	"CategoriaRepuesto.h"
+
+1666092447 source:c:\users\alejandro\downloads\tpfinal\src\metodosfecha.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	"Fecha.h"
+
+1666699025 source:c:\users\alejandro\downloads\tpfinal\src\metodosincidencia.cpp
+	"Incidencia.h"
+
+1666656249 source:c:\users\alejandro\downloads\tpfinal\src\metodosrepuesto.cpp
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<iostream>
+	"Repuesto.h"
+
+1667934020 c:\users\alejandro\downloads\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1667417394 c:\users\alejandro\downloads\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 c:\users\alejandro\downloads\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1667248121 c:\users\alejandro\downloads\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1667251348 c:\users\alejandro\downloads\tpfinal\include\categoriatecnico.h
+	<string.h>
+
+1666734853 source:c:\users\alejandro\downloads\tpfinal\src\categoriatecnico.cpp
+	"CategoriaTecnico.h"
+	<iostream>
+
+1666702853 source:c:\users\alejandro\downloads\tpfinal\src\contacto.cpp
+	"Contacto.h"
+
+1666203779 source:c:\users\alejandro\downloads\tpfinal\src\direccion.cpp
+	"Direccion.h"
+
+1666135387 source:c:\users\alejandro\downloads\tpfinal\src\persona.cpp
+	"Persona.h"
+
+1666704256 source:c:\users\alejandro\downloads\tpfinal\src\tecnico.cpp
+	"Tecnico.h"
+
+1667434131 c:\users\alejandro\downloads\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1666702589 source:c:\users\alejandro\downloads\tpfinal\src\cliente.cpp
+	"Cliente.h"
+
+1666702589 source:c:\users\alejandro\downloads\tpfinal\src\metodosdireccion.cpp
+	"Direccion.h"
+
+1667931383 c:\users\alejandro\downloads\tpfinal\funciones.h
+
+1667933977 source:c:\users\alejandro\downloads\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"PresupuestoRepuesto.h"
+
+1666655745 c:\users\alejandro\downloads\tpfinal\funciones.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"Tecnico.h"
+
+1666809011 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Incidencia.h"
+	"Repuesto.h"
+	"Graficos.h"
+
+1656302738 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1666807672 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\funciones.h
+
+1666810749 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\fecha.h
+
+1666811239 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1666810860 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1666810466 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1666810342 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\categoriatecnico.h
+
+1666810431 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1666810860 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\incidencia.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1666810917 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+
+1666808996 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\include\grafico.h
+	"rlutil.h"
+
+1666734853 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\src\categoriatecnico.cpp
+	"CategoriaTecnico.h"
+	<iostream>
+
+1666702589 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\src\cliente.cpp
+	"Cliente.h"
+
+1666702853 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\src\contacto.cpp
+	"Contacto.h"
+
+1666702589 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\src\metodosdireccion.cpp
+	"Direccion.h"
+
+1666092447 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\src\metodosfecha.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	"Fecha.h"
+
+1666699025 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\src\metodosincidencia.cpp
+	"Incidencia.h"
+
+1666656249 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\src\metodosrepuesto.cpp
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<iostream>
+	"Repuesto.h"
+
+1666808182 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\src\tecnico.cpp
+	"Tecnico.h"
+
+1666808166 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+
+1666734853 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\categoriatecnico.cpp
+	"CategoriaTecnico.h"
+	<iostream>
+
+1666702589 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\cliente.cpp
+	"Cliente.h"
+
+1666702853 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\contacto.cpp
+	"Contacto.h"
+
+1666811050 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1666811192 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1666810968 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\metodosincidencia.cpp
+	<string.h>
+	<iostream>
+	"Incidencia.h"
+	"funciones.h"
+
+1666811192 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+
+1666811239 c:\users\lei_v\downloads\tpfinal25-10\tpfinal\graficos.h
+	"rlutil.h"
+
+1666810170 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\graficos.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Graficos.h"
+	"Incidencia.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+
+1666808734 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\tecnico.cpp
+	"Tecnico.h"
+	"funciones.h"
+
+1666811033 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+
+1666811041 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1666811208 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+
+1666810985 source:c:\users\lei_v\downloads\tpfinal25-10\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1667251328 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1667251348 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\categoriatecnico.h
+	<string.h>
+
+1667252517 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+
+1666810431 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1666810860 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1667248121 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1667253876 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\funciones.h
+
+1667248157 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1666811050 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1666811192 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1666810749 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\fecha.h
+
+1667255485 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+
+1667256324 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+
+1667252049 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+
+1667250975 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1667252517 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\graficos.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Graficos.h"
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+
+1656302738 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667247679 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\graficos.h
+	"rlutil.h"
+
+1667247647 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\incidencia.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1667247647 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodosincidencia.cpp
+	<string.h>
+	<iostream>
+	"Incidencia.h"
+	"funciones.h"
+
+1667247939 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Graficos.h"
+
+1667253789 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+
+1667255874 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodosreparacion.cpp
+	<string.h>
+	<iostream>
+	"Reparacion.h"
+	"funciones.h"
+
+1667254470 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\reparacion.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1667250418 source:c:\users\lei_v\downloads\tpfinal26-10\tpfinal\metodospresupuestorepuesto.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1667249873 c:\users\lei_v\downloads\tpfinal26-10\tpfinal\include\presupuestorepuesto.h
+
+1667934693 c:\users\alejandro\downloads\tpfinal\include\reparacion.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1667937477 source:c:\users\alejandro\downloads\tpfinal\graficos.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Graficos.h"
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+
+1667247679 c:\users\alejandro\downloads\tpfinal\graficos.h
+	"rlutil.h"
+
+1667932286 source:c:\users\alejandro\downloads\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1667936311 source:c:\users\alejandro\downloads\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+
+1667248157 source:c:\users\alejandro\downloads\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1666811050 source:c:\users\alejandro\downloads\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1666811192 source:c:\users\alejandro\downloads\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1667406535 source:c:\users\alejandro\downloads\tpfinal\metodospresupuestorepuesto.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1667406535 c:\users\alejandro\downloads\tpfinal\include\presupuestorepuesto.h
+
+1667406535 source:c:\users\alejandro\downloads\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+	"rlutil.h"
+
+1667937477 source:c:\users\alejandro\downloads\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+
+1667936311 source:c:\users\alejandro\downloads\tpfinal\metodosreparacion.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"PresupuestoRepuesto.h"
+
+1667417202 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"PresupuestoRepuesto.h"
+
+1667417202 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\funciones.h
+
+1656302738 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1667417394 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\reparacion.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1667364590 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1666810749 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\fecha.h
+
+1667418144 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1667417394 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1667248121 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1667417202 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1667251348 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\categoriatecnico.h
+	<string.h>
+
+1667406535 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\include\presupuestorepuesto.h
+
+1667418152 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\graficos.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Graficos.h"
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+
+1667247679 c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\graficos.h
+	"rlutil.h"
+
+1667247939 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Graficos.h"
+
+1667251328 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1667418144 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+
+1667248157 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1666811050 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1666811192 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1667406535 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodospresupuestorepuesto.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1667418115 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodosreparacion.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"PresupuestoRepuesto.h"
+
+1667406535 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+	"rlutil.h"
+
+1667417209 source:c:\users\lei_v\downloads\tpfinal_2-11\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+
+1668527200 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"PresupuestoRepuesto.h"
+
+1668521474 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\funciones.h
+
+1656302738 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668328178 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\reparacion.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1668251610 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1668183829 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\fecha.h
+
+1668441813 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1667417394 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1667248121 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1668329068 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1667251348 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\categoriatecnico.h
+	<string.h>
+
+1667406535 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\include\presupuestorepuesto.h
+
+1668524956 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\graficos.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Graficos.h"
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"frame.h"
+	"funciones.h"
+
+1668347246 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\graficos.h
+	"rlutil.h"
+
+1668506716 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	<bits/stdc++.h>
+	<fstream>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Graficos.h"
+	"frame.h"
+
+1667932286 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1668527471 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+
+1667248157 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1668505590 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1666811192 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1668069803 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodospresupuestorepuesto.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1668525910 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodosreparacion.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"PresupuestoRepuesto.h"
+
+1668526891 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+	"rlutil.h"
+
+1668505590 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+
+1668504553 c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\frame.h
+
+1668458353 source:c:\users\lei_v\downloads\tpfinal_8-11\tpfinal\frame.cpp
+	"funciones.h"
+	"rlutil.h"
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"PresupuestoRepuesto.h"
+	"frame.h"
+
+1668590043 source:c:\users\lei_v\downloads\tpfinal\tpfinal\frame.cpp
+
+1668637055 c:\users\lei_v\downloads\tpfinal\tpfinal\funciones.h
+
+1656302738 c:\users\lei_v\downloads\tpfinal\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668328178 c:\users\lei_v\downloads\tpfinal\tpfinal\include\reparacion.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1668251610 c:\users\lei_v\downloads\tpfinal\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1668183829 c:\users\lei_v\downloads\tpfinal\tpfinal\include\fecha.h
+
+1668624649 c:\users\lei_v\downloads\tpfinal\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1667417394 c:\users\lei_v\downloads\tpfinal\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 c:\users\lei_v\downloads\tpfinal\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1668614833 c:\users\lei_v\downloads\tpfinal\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1668329068 c:\users\lei_v\downloads\tpfinal\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1667251348 c:\users\lei_v\downloads\tpfinal\tpfinal\include\categoriatecnico.h
+	<string.h>
+
+1667406535 c:\users\lei_v\downloads\tpfinal\tpfinal\include\presupuestorepuesto.h
+
+1668602356 c:\users\lei_v\downloads\tpfinal\tpfinal\frame.h
+
+1668634047 source:c:\users\lei_v\downloads\tpfinal\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"PresupuestoRepuesto.h"
+	"Graficos.h"
+
+1668637055 source:c:\users\lei_v\downloads\tpfinal\tpfinal\graficos.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Graficos.h"
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"frame.h"
+	"funciones.h"
+
+1668635786 c:\users\lei_v\downloads\tpfinal\tpfinal\graficos.h
+	"rlutil.h"
+
+1668635880 source:c:\users\lei_v\downloads\tpfinal\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	<bits/stdc++.h>
+	<fstream>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Graficos.h"
+	"frame.h"
+
+1667932286 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1668527471 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+
+1667248157 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1668505590 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1666811192 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1668637055 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodospresupuestorepuesto.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1668636048 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodosreparacion.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"PresupuestoRepuesto.h"
+
+1668637084 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+	"rlutil.h"
+
+1668617291 source:c:\users\lei_v\downloads\tpfinal\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+
+1667932286 source:c:\users\juan\desktop\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1667251348 c:\users\juan\desktop\tpfinal\include\categoriatecnico.h
+	<string.h>
+
+1667248157 source:c:\users\juan\desktop\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1668614833 c:\users\juan\desktop\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1668656586 c:\users\juan\desktop\tpfinal\funciones.h
+
+1666811192 source:c:\users\juan\desktop\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1668183829 c:\users\juan\desktop\tpfinal\include\fecha.h
+
+1668690664 source:c:\users\juan\desktop\tpfinal\graficos.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Graficos.h"
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"frame.h"
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1656302738 c:\users\juan\desktop\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668635786 c:\users\juan\desktop\tpfinal\graficos.h
+	"rlutil.h"
+
+1668328178 c:\users\juan\desktop\tpfinal\include\reparacion.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1668251610 c:\users\juan\desktop\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1668624649 c:\users\juan\desktop\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1667417394 c:\users\juan\desktop\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 c:\users\juan\desktop\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1668329068 c:\users\juan\desktop\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1668602356 c:\users\juan\desktop\tpfinal\frame.h
+
+1668635880 source:c:\users\juan\desktop\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	<bits/stdc++.h>
+	<fstream>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Graficos.h"
+	"frame.h"
+
+1668527471 source:c:\users\juan\desktop\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+
+1668505590 source:c:\users\juan\desktop\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1668637055 source:c:\users\juan\desktop\tpfinal\metodospresupuestorepuesto.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1667406535 c:\users\juan\desktop\tpfinal\include\presupuestorepuesto.h
+
+1668636048 source:c:\users\juan\desktop\tpfinal\metodosreparacion.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"PresupuestoRepuesto.h"
+
+1668637084 source:c:\users\juan\desktop\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+	"rlutil.h"
+
+1668617291 source:c:\users\juan\desktop\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+
+1668657008 source:c:\users\juan\desktop\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"PresupuestoRepuesto.h"
+	"Graficos.h"
+
+1671328920 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"PresupuestoRepuesto.h"
+	"Graficos.h"
+
+1671265656 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\funciones.h
+
+1656302738 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1671256143 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\reparacion.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1669692236 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1668183829 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\fecha.h
+
+1669638789 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1667417394 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1668614833 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1669271773 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1667251348 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\categoriatecnico.h
+	<string.h>
+
+1667406535 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\include\presupuestorepuesto.h
+
+1671256420 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\graficos.h
+	"rlutil.h"
+
+1667932286 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1669762312 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+	"rlutil.h"
+	"Graficos.h"
+
+1667248157 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1668505590 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1666811192 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1668637055 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodospresupuestorepuesto.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1671267702 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodosreparacion.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"PresupuestoRepuesto.h"
+	"rlutil.h"
+	"Graficos.h"
+
+1669762616 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+	"rlutil.h"
+	"rlutil.h"
+	"Graficos.h"
+
+1669762616 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+	"rlutil.h"
+	"Graficos.h"
+
+1671328811 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\graficos.cpp
+	<iostream>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	"Graficos.h"
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"frame.h"
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1668602356 d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\frame.h
+
+1669763008 source:d:\act\utn\2do cuatri\laboratorio de computación ii\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	<bits/stdc++.h>
+	<fstream>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Graficos.h"
+	"frame.h"
+
+1671328920 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	"Reparacion.h"
+	"Cliente.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"PresupuestoRepuesto.h"
+	"Graficos.h"
+
+1671265656 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\funciones.h
+
+1656302738 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1671256143 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\reparacion.h
+	"Repuesto.h"
+	"Fecha.h"
+
+1669692236 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\repuesto.h
+	<string.h>
+	<iostream>
+	<conio.h>
+
+1668183829 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\fecha.h
+
+1669638789 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\cliente.h
+	<string.h>
+	<Persona.h>
+
+1667417394 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\persona.h
+	<string.h>
+	"Direccion.h"
+	"Contacto.h"
+
+1666810534 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\direccion.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1668614833 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\contacto.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1669271773 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\tecnico.h
+	<Persona.h>
+	"CategoriaTecnico.h"
+
+1667251348 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\categoriatecnico.h
+	<string.h>
+
+1667406535 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\include\presupuestorepuesto.h
+
+1671256420 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\graficos.h
+	"rlutil.h"
+
+1669763008 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctime>
+	<string>
+	<windows.h>
+	<ctype.h>
+	"rlutil.h"
+	<MMSystem.h>
+	<cstdlib>
+	<clocale>
+	<cstring>
+	<bits/stdc++.h>
+	<fstream>
+	"funciones.h"
+	"Fecha.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Graficos.h"
+	"frame.h"
+
+1668602356 c:\users\lei_v\downloads\tpfinal (4)\tpfinal\frame.h
+
+1667932286 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodoscategoriatecnico.cpp
+	<iostream>
+	"CategoriaTecnico.h"
+
+1669762312 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodoscliente.cpp
+	<string.h>
+	<iostream>
+	"Cliente.h"
+	"funciones.h"
+	"rlutil.h"
+	"Graficos.h"
+
+1667248157 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodoscontacto.cpp
+	<string.h>
+	<iostream>
+	"Contacto.h"
+	"funciones.h"
+
+1668505590 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodosdireccion.cpp
+	<string.h>
+	<iostream>
+	"Direccion.h"
+	"funciones.h"
+
+1666811192 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodosfecha.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"Fecha.h"
+
+1668637055 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodospresupuestorepuesto.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"PresupuestoRepuesto.h"
+
+1671267702 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodosreparacion.cpp
+	<string.h>
+	<iostream>
+	"funciones.h"
+	"Reparacion.h"
+	"Repuesto.h"
+	"Tecnico.h"
+	"Cliente.h"
+	"PresupuestoRepuesto.h"
+	"rlutil.h"
+	"Graficos.h"
+
+1669762616 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodosrepuesto.cpp
+	<string.h>
+	<iostream>
+	"Repuesto.h"
+	"funciones.h"
+	"rlutil.h"
+	"rlutil.h"
+	"Graficos.h"
+
+1669762616 source:c:\users\lei_v\downloads\tpfinal (4)\tpfinal\metodostecnico.cpp
+	<string.h>
+	<iostream>
+	"Tecnico.h"
+	"funciones.h"
+	"rlutil.h"
+	"Graficos.h"
+
